@@ -1,5 +1,5 @@
 ---
-title: More about the theme: TeXt
+title: More about the theme - TeXt
 tags: 2022
 article_header:
   type: cover
